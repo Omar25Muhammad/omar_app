@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include omar_app *.css
+recursive-include omar_app *.csv
+recursive-include omar_app *.html
+recursive-include omar_app *.ico
+recursive-include omar_app *.js
+recursive-include omar_app *.json
+recursive-include omar_app *.md
+recursive-include omar_app *.png
+recursive-include omar_app *.py
+recursive-include omar_app *.svg
+recursive-include omar_app *.txt
+recursive-exclude omar_app *.pyc
