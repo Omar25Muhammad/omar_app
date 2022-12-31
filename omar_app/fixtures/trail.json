@@ -1,0 +1,22 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "trail",
+  "modified": "2022-08-08 14:15:50.157520",
+  "name": "OC-08-2022-00001",
+  "naming_series": "OC-.MM.-.YYYY.-.#####",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "trail",
+  "modified": "2022-08-08 14:25:06.325463",
+  "name": "OC-08-2022-00002",
+  "naming_series": "OC-.MM.-.YYYY.-.#####",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

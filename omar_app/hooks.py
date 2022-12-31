@@ -1,4 +1,5 @@
 from . import __version__ as app_version
+import frappe
 
 app_name = "omar_app"
 app_title = "Omar App"
@@ -11,7 +12,8 @@ app_license = "NYUSIM"
 
 # Includes in <head>
 # ------------------
-
+fixtures = frappe.get_list('DocType', filters=[['module', 'in',  'OmarModule'], [
+                           'name', '!=', 'con1']], pluck='name')
 # include js, css files in header of desk.html
 # app_include_css = "/assets/omar_app/css/omar_app.css"
 # app_include_js = "/assets/omar_app/js/omar_app.js"

@@ -1,0 +1,22 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Soap Flavor",
+  "modified": "2022-07-23 10:02:24.440815",
+  "name": "Olive",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "soap_flvr": "Olive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Soap Flavor",
+  "modified": "2022-07-23 10:08:51.985530",
+  "name": "dd",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "soap_flvr": "dd"
+ }
+]

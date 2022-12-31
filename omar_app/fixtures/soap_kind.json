@@ -1,0 +1,22 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Soap Kind",
+  "modified": "2022-07-23 09:31:40.761743",
+  "name": "Creamy",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "soap_knd": "Creamy"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Soap Kind",
+  "modified": "2022-07-23 09:32:22.277914",
+  "name": "Oily",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "soap_knd": "Oily"
+ }
+]

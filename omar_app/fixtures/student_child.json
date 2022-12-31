@@ -1,0 +1,62 @@
+[
+ {
+  "course": "Coding & Information Theory",
+  "docstatus": 1,
+  "doctype": "Student Child",
+  "final": 100,
+  "id": 172170,
+  "midterm": 100,
+  "modified": "2022-07-30 13:24:00.764786",
+  "name": "Omar M Shehada-course",
+  "parent": "Hosam Maqadim-Coding & Information Theory",
+  "parentfield": "student_grades",
+  "parenttype": "Transcript Entry",
+  "student_name": "Omar M Shehada",
+  "total": 100
+ },
+ {
+  "course": "IT",
+  "docstatus": 1,
+  "doctype": "Student Child",
+  "final": 100,
+  "id": 172170,
+  "midterm": 100,
+  "modified": "2022-07-30 15:28:55.236473",
+  "name": "omar-IT",
+  "parent": "hosam-IT",
+  "parentfield": "student_grades",
+  "parenttype": "Transcript Entry",
+  "student_name": "omar",
+  "total": 100
+ },
+ {
+  "course": "CS",
+  "docstatus": 1,
+  "doctype": "Student Child",
+  "final": 100,
+  "id": 172170,
+  "midterm": 100,
+  "modified": "2022-07-31 10:52:56.203593",
+  "name": "Omar-CS",
+  "parent": "Hosam-CS",
+  "parentfield": "student_grades",
+  "parenttype": "Transcript Entry",
+  "student_name": "Omar",
+  "total": 100
+ },
+ {
+  "course": "CS",
+  "docstatus": 1,
+  "doctype": "Student Child",
+  "final": 80,
+  "id": 162127,
+  "midterm": 80,
+  "modified": "2022-07-31 10:52:56.203593",
+  "name": "Alhasan-CS",
+  "parent": "Hosam-CS",
+  "parentfield": "student_grades",
+  "parenttype": "Transcript Entry",
+  "student_name": "Alhasan",
+  "total": 80
+ }
+]

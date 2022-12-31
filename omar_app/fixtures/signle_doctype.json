@@ -1,0 +1,31 @@
+[
+ {
+  "abc": "fg",
+  "child": [
+   {
+    "address": "Libya",
+    "age": "12",
+    "name1": "ALi",
+    "parent": "Signle DocType",
+    "parentfield": "child",
+    "parenttype": "Signle DocType"
+   },
+   {
+    "address": "Malta",
+    "age": "32",
+    "name1": "Hosam",
+    "parent": "Signle DocType",
+    "parentfield": "child",
+    "parenttype": "Signle DocType"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Signle DocType",
+  "dsa": "rgt",
+  "modified": "2022-07-03 15:02:42.814896",
+  "name": "Signle DocType",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "address": "Libya",
+  "age": "12",
+  "docstatus": 0,
+  "doctype": "Child Doc",
+  "modified": "2022-07-03 15:02:42.814896",
+  "name": "93d8f40ba1",
+  "name1": "ALi",
+  "parent": "Signle DocType",
+  "parentfield": "child",
+  "parenttype": "Signle DocType"
+ },
+ {
+  "address": "Berlin, Germany",
+  "age": "19",
+  "docstatus": 0,
+  "doctype": "Child Doc",
+  "modified": "2022-09-14 10:44:58.526662",
+  "name": "6975aeb9f7",
+  "name1": "Haya",
+  "parent": "5b20b7dbd0",
+  "parentfield": "child_doc",
+  "parenttype": "Normal DocType"
+ },
+ {
+  "address": "omar12",
+  "age": "12",
+  "docstatus": 0,
+  "doctype": "Child Doc",
+  "modified": "2022-09-24 14:57:37.237987",
+  "name": "cb5b0575ea",
+  "name1": "omar",
+  "parent": "e10e56fbf6",
+  "parentfield": "child_doc",
+  "parenttype": "Normal DocType"
+ },
+ {
+  "address": "Malta",
+  "age": "32",
+  "docstatus": 0,
+  "doctype": "Child Doc",
+  "modified": "2022-07-03 15:02:42.814896",
+  "name": "822fc7552c",
+  "name1": "Hosam",
+  "parent": "Signle DocType",
+  "parentfield": "child",
+  "parenttype": "Signle DocType"
+ }
+]

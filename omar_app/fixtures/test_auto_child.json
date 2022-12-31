@@ -1,0 +1,44 @@
+[
+ {
+  "action": "alt",
+  "creation1": null,
+  "days": 0,
+  "docstatus": 0,
+  "doctype": "Test Auto Child",
+  "due": null,
+  "modified": "2022-11-01 18:49:18.619618",
+  "name": "470e1dd8ee",
+  "parent": "ACT00001",
+  "parentfield": "test_auto_child",
+  "parenttype": "Test Auto",
+  "status": ""
+ },
+ {
+  "action": "alt",
+  "creation1": null,
+  "days": 0,
+  "docstatus": 0,
+  "doctype": "Test Auto Child",
+  "due": null,
+  "modified": "2022-11-01 18:49:18.619618",
+  "name": "e5b6dfd196",
+  "parent": "ACT00001",
+  "parentfield": "test_auto_child",
+  "parenttype": "Test Auto",
+  "status": ""
+ },
+ {
+  "action": "\u0637\u0644\u0628 \u062a\u062d\u0648\u064a\u0644",
+  "creation1": null,
+  "days": 30,
+  "docstatus": 0,
+  "doctype": "Test Auto Child",
+  "due": null,
+  "modified": "2022-11-01 18:49:18.619618",
+  "name": "7933fb4638",
+  "parent": "ACT00001",
+  "parentfield": "test_auto_child",
+  "parenttype": "Test Auto",
+  "status": "Not Yet"
+ }
+]

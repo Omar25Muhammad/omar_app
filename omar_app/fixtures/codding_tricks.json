@@ -1,0 +1,28 @@
+[
+ {
+  "code": "// To make check fields behave like radios\nsingle_sided: function(frm) {\n\tif (frm.doc.single_sided == true) {\n  frm.set_value('double_sided', false);\n\t}\n},\ndouble_sided: function(frm) {\n\tif (frm.doc.double_sided == true) {\n  frm.set_value('single_sided', false);\n\t}\n},\n\nwith_images: function(frm) {\n\tif (frm.doc.with_images == true) {\n  frm.set_value('without_images', false);\n\t}\n},\nwithout_images: function(frm) {\n\tif (frm.doc.without_images == true) {\n  frm.set_value('with_images', false);\n\t}\n},",
+  "desc": "To turn Check Field Type into Radio with a real-world example.",
+  "doc_time": null,
+  "docstatus": 0,
+  "doctype": "Codding Tricks",
+  "modified": "2022-07-21 15:32:37.708194",
+  "name": "TRK-0066",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "prog_lang": "JS"
+ },
+ {
+  "code": null,
+  "desc": null,
+  "doc_time": null,
+  "docstatus": 0,
+  "doctype": "Codding Tricks",
+  "modified": "2022-07-21 15:40:38.448875",
+  "name": "TRK-####",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "prog_lang": null
+ }
+]

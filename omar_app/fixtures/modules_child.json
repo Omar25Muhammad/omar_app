@@ -1,0 +1,22 @@
+[
+ {
+  "_name": "Accounts",
+  "docstatus": 0,
+  "doctype": "Modules Child",
+  "modified": "2022-10-02 02:14:49.653440",
+  "name": "17cff6dcd5",
+  "parent": "93d058bbe0",
+  "parentfield": "m_tbl",
+  "parenttype": "Database Ereaser"
+ },
+ {
+  "_name": "Buying",
+  "docstatus": 0,
+  "doctype": "Modules Child",
+  "modified": "2022-10-02 02:14:49.653440",
+  "name": "e948807976",
+  "parent": "93d058bbe0",
+  "parentfield": "m_tbl",
+  "parenttype": "Database Ereaser"
+ }
+]

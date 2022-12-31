@@ -1,0 +1,969 @@
+[
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.096",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 13:54:07.424359",
+  "name": "FRM.096",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.097",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 14:21:12.258005",
+  "name": "FRM.097",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 14:24:51.753994",
+  "name": "FRM.098",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.099",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 14:31:22.972211",
+  "name": "FRM.099",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.100",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 15:11:12.511365",
+  "name": "FRM.100",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.102",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 15:24:35.828413",
+  "name": "FRM.102",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.103",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.103",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.103",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.103",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.103",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.103",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 15:24:54.753288",
+  "name": "FRM.103",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 12,
+    "major": "omar",
+    "name1": "omar",
+    "parent": "FRM.104",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 32,
+    "major": "ali",
+    "name1": "Ali",
+    "parent": "FRM.104",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 15:34:05.673938",
+  "name": "FRM.104",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.107",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.107",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 21:09:36.446508",
+  "name": "FRM.107",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.108",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.108",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.108",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.108",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 21:17:58.320799",
+  "name": "FRM.108",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.109",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.109",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-23 21:19:02.566515",
+  "name": "FRM.109",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.110",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 11:42:12.738721",
+  "name": "FRM.110",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.111",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 11:52:34.952206",
+  "name": "FRM.111",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.112",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 12:11:20.264832",
+  "name": "FRM.112",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 0,
+    "major": null,
+    "name1": "Ali",
+    "parent": "FRM.113",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "ds",
+    "parent": "FRM.113",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "d",
+    "parent": "FRM.113",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "ds",
+    "parent": "FRM.113",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 13:16:57.424862",
+  "name": "FRM.113",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 4
+ },
+ {
+  "data": [
+   {
+    "age": 0,
+    "major": null,
+    "name1": "om",
+    "parent": "FRM.114",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "fs",
+    "parent": "FRM.114",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "ds",
+    "parent": "FRM.114",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "fsd",
+    "parent": "FRM.114",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 0,
+    "major": null,
+    "name1": "fsd",
+    "parent": "FRM.114",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 13:18:56.778196",
+  "name": "FRM.114",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 3
+ },
+ {
+  "data": [
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 19,
+    "major": "None",
+    "name1": "Ali",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.115",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 13:31:01.382267",
+  "name": "FRM.115",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 0
+ },
+ {
+  "data": [
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.116",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.116",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.116",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.116",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   },
+   {
+    "age": 3445345,
+    "major": "Yeb!",
+    "name1": "Loop",
+    "parent": "FRM.116",
+    "parentfield": "data",
+    "parenttype": "FormOmar"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "FormOmar",
+  "modified": "2022-07-24 14:23:54.125253",
+  "name": "FRM.116",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "tries": 3445345
+ }
+]

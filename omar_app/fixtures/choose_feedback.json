@@ -1,0 +1,101 @@
+[
+ {
+  "date_of_rating": "2022-07-13",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-004-07, 22",
+  "modified": "2022-07-05 12:42:37.266427",
+  "name": "7a00afd1f8",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-13",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-004-07, 22",
+  "modified": "2022-07-05 13:58:13.183746",
+  "name": "17851adcae",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-12",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-005-07, 22",
+  "modified": "2022-07-05 22:33:09.102962",
+  "name": "9bdae10a0b",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-13",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-004-07, 22",
+  "modified": "2022-07-05 22:34:01.814694",
+  "name": "3477edf0ad",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-19",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-003-07, 22",
+  "modified": "2022-07-05 22:39:41.474652",
+  "name": "10e82191f7",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-13",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-004-07, 22",
+  "modified": "2022-07-05 22:41:40.352579",
+  "name": "94eb48ee48",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-13",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-004-07, 22",
+  "modified": "2022-07-05 22:45:36.574471",
+  "name": "a7584b88f4",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-12",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-005-07, 22",
+  "modified": "2022-07-05 22:46:24.715504",
+  "name": "631a227cd8",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date_of_rating": "2022-07-12",
+  "docstatus": 0,
+  "doctype": "Choose FeedBack",
+  "list_of_customers_feedbacks": "CRM-005-07, 22",
+  "modified": "2022-07-06 09:23:34.362350",
+  "name": "d6ca7f97e2",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

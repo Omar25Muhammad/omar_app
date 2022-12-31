@@ -1,0 +1,40 @@
+[
+ {
+  "amended_from": null,
+  "course_title": "CS",
+  "docstatus": 1,
+  "doctype": "Transcript Entry",
+  "entry_date": "2022-07-31 10:34:15",
+  "modified": "2022-07-31 10:52:56.203593",
+  "name": "Hosam-CS",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "prof_name": "Hosam",
+  "student_grades": [
+   {
+    "course": "CS",
+    "final": 100,
+    "id": 172170,
+    "midterm": 100,
+    "parent": "Hosam-CS",
+    "parentfield": "student_grades",
+    "parenttype": "Transcript Entry",
+    "student_name": "Omar",
+    "total": 100
+   },
+   {
+    "course": "CS",
+    "final": 80,
+    "id": 162127,
+    "midterm": 80,
+    "parent": "Hosam-CS",
+    "parentfield": "student_grades",
+    "parenttype": "Transcript Entry",
+    "student_name": "Alhasan",
+    "total": 80
+   }
+  ],
+  "workflow_state": "Approved"
+ }
+]

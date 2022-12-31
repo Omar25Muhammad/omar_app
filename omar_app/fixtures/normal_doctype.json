@@ -1,0 +1,68 @@
+[
+ {
+  "abc": "omar",
+  "cde": "omar",
+  "child_doc": [],
+  "docstatus": 0,
+  "doctype": "Normal DocType",
+  "modified": "2022-07-03 13:23:56.993091",
+  "name": "8910b02d33",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "abc": "tryrty",
+  "cde": "rtyrty",
+  "child_doc": [],
+  "docstatus": 0,
+  "doctype": "Normal DocType",
+  "modified": "2022-08-18 13:04:43.871816",
+  "name": "b5431fd2a5",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "abc": "OMAR",
+  "cde": "MUHAMMED",
+  "child_doc": [
+   {
+    "address": "Berlin, Germany",
+    "age": "19",
+    "name1": "Haya",
+    "parent": "5b20b7dbd0",
+    "parentfield": "child_doc",
+    "parenttype": "Normal DocType"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Normal DocType",
+  "modified": "2022-09-14 10:44:58.526662",
+  "name": "5b20b7dbd0",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "abc": "omar",
+  "cde": "omar",
+  "child_doc": [
+   {
+    "address": "omar12",
+    "age": "12",
+    "name1": "omar",
+    "parent": "e10e56fbf6",
+    "parentfield": "child_doc",
+    "parenttype": "Normal DocType"
+   }
+  ],
+  "docstatus": 0,
+  "doctype": "Normal DocType",
+  "modified": "2022-09-24 14:57:37.237987",
+  "name": "e10e56fbf6",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

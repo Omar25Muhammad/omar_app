@@ -1,0 +1,38 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "property",
+  "first_name": "Omar",
+  "last_name": "Shehada",
+  "middle_name": "M",
+  "modified": "2022-07-03 11:35:16.193755",
+  "name": "b2248cd01f",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "property",
+  "first_name": "No name",
+  "last_name": "omar",
+  "middle_name": null,
+  "modified": "2022-07-03 11:55:03.602570",
+  "name": "d804dfe6cb",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "property",
+  "first_name": "No name",
+  "last_name": "odsa",
+  "middle_name": null,
+  "modified": "2022-07-03 12:00:12.383847",
+  "name": "364a5e11c5",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

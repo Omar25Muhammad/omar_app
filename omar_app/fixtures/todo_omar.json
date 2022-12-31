@@ -1,0 +1,23 @@
+[
+ {
+  "assigned_by": null,
+  "assigned_by_full_name": null,
+  "assignment_rule": null,
+  "color": null,
+  "date": null,
+  "description": "<div class=\"ql-editor read-mode\"><p>gdf</p></div>",
+  "docstatus": 0,
+  "doctype": "todo_omar",
+  "modified": "2022-12-16 23:49:18.944261",
+  "name": "8a8f69b5f6",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "priority": "Medium",
+  "reference_name": null,
+  "reference_type": null,
+  "role": null,
+  "sender": null,
+  "status": "Closed"
+ }
+]

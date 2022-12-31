@@ -1,0 +1,43 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Test Auto",
+  "modified": "2022-11-01 18:49:18.619618",
+  "name": "ACT00001",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "test_auto_child": [
+   {
+    "action": "alt",
+    "creation1": null,
+    "days": 0,
+    "due": null,
+    "parent": "ACT00001",
+    "parentfield": "test_auto_child",
+    "parenttype": "Test Auto",
+    "status": ""
+   },
+   {
+    "action": "alt",
+    "creation1": null,
+    "days": 0,
+    "due": null,
+    "parent": "ACT00001",
+    "parentfield": "test_auto_child",
+    "parenttype": "Test Auto",
+    "status": ""
+   },
+   {
+    "action": "\u0637\u0644\u0628 \u062a\u062d\u0648\u064a\u0644",
+    "creation1": null,
+    "days": 30,
+    "due": null,
+    "parent": "ACT00001",
+    "parentfield": "test_auto_child",
+    "parenttype": "Test Auto",
+    "status": "Not Yet"
+   }
+  ]
+ }
+]

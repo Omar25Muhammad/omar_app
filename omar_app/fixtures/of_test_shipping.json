@@ -1,0 +1,42 @@
+[
+ {
+  "data_1": null,
+  "docstatus": 0,
+  "doctype": "Of Test Shipping",
+  "modified": "2022-08-06 13:17:38.794698",
+  "name": "0b82e331b6",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "data_1": null,
+  "docstatus": 0,
+  "doctype": "Of Test Shipping",
+  "modified": "2022-08-06 13:40:02.226415",
+  "name": "1761794195",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "data_1": "Yes. TS06 is submmited",
+  "docstatus": 0,
+  "doctype": "Of Test Shipping",
+  "modified": "2022-08-06 13:40:55.049352",
+  "name": "11cf7bf9f4",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "data_1": "No. TS06 is either drafted or canceled",
+  "docstatus": 0,
+  "doctype": "Of Test Shipping",
+  "modified": "2022-08-06 14:36:34.166411",
+  "name": "b1dc469a58",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

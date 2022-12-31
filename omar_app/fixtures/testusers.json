@@ -1,0 +1,133 @@
+[
+ {
+  "amended_from": null,
+  "date": null,
+  "docstatus": 1,
+  "doctype": "TestUsers",
+  "modified": "2022-09-26 22:26:47.080006",
+  "name": "USR-026",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": [],
+  "usr": "ahmed@mail.com",
+  "usrs": []
+ },
+ {
+  "amended_from": null,
+  "date": null,
+  "docstatus": 1,
+  "doctype": "TestUsers",
+  "modified": "2022-10-17 15:05:21.992113",
+  "name": "USR-027",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": [
+   {
+    "name_": "0923584285",
+    "parent": "USR-027",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   },
+   {
+    "name_": "0923947475",
+    "parent": "USR-027",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   }
+  ],
+  "usr": null,
+  "usrs": []
+ },
+ {
+  "amended_from": null,
+  "date": "2022-10-17",
+  "docstatus": 0,
+  "doctype": "TestUsers",
+  "modified": "2022-10-17 20:25:28.467074",
+  "name": "USR-028",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": [
+   {
+    "name_": "0923584285",
+    "parent": "USR-028",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   },
+   {
+    "name_": "0923947475",
+    "parent": "USR-028",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   }
+  ],
+  "usr": null,
+  "usrs": []
+ },
+ {
+  "amended_from": null,
+  "date": "2022-10-17",
+  "docstatus": 1,
+  "doctype": "TestUsers",
+  "modified": "2022-10-17 20:31:58.641962",
+  "name": "USR-029",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": [
+   {
+    "name_": "0923584285",
+    "parent": "USR-029",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   }
+  ],
+  "usr": null,
+  "usrs": []
+ },
+ {
+  "amended_from": null,
+  "date": "2022-10-17",
+  "docstatus": 0,
+  "doctype": "TestUsers",
+  "modified": "2022-10-17 20:33:17.076427",
+  "name": "USR-030",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": [
+   {
+    "name_": "0923584285",
+    "parent": "USR-030",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   }
+  ],
+  "usr": null,
+  "usrs": []
+ },
+ {
+  "amended_from": null,
+  "date": null,
+  "docstatus": 0,
+  "doctype": "TestUsers",
+  "modified": "2022-11-05 09:26:59.488431",
+  "name": "USR-031",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "phone": [
+   {
+    "name_": "0923584285",
+    "parent": "USR-031",
+    "parentfield": "phone",
+    "parenttype": "TestUsers"
+   }
+  ],
+  "usr": "ahmed@mail.com",
+  "usrs": []
+ }
+]

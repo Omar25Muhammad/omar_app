@@ -1,0 +1,82 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Users Child",
+  "modified": "2022-09-01 15:22:40.825485",
+  "name": "71e1e8abc8",
+  "parent": "USR-002",
+  "parentfield": "usr",
+  "parenttype": "TestUsers",
+  "usr": "apr@user.com"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Users Child",
+  "modified": "2022-09-01 15:22:54.469788",
+  "name": "548174a3f7",
+  "parent": "USR-003",
+  "parentfield": "usr",
+  "parenttype": "TestUsers",
+  "usr": "shehada.mk.omar@gmail.com"
+ },
+ {
+  "docstatus": 1,
+  "doctype": "Users Child",
+  "modified": "2022-09-01 15:23:30.484295",
+  "name": "93511ddcf7",
+  "parent": "USR-004",
+  "parentfield": "usr",
+  "parenttype": "TestUsers",
+  "usr": "shehada.mk.omar@gmail.com"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Users Child",
+  "modified": "2022-09-01 15:26:44.688882",
+  "name": "cf94051f19",
+  "parent": "USR-005",
+  "parentfield": "usrs",
+  "parenttype": "TestUsers",
+  "usr": "shehada.mk.omar@gmail.com"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Users Child",
+  "modified": "2022-09-03 09:49:42.090171",
+  "name": "aa4bf92b6b",
+  "parent": "USR-009",
+  "parentfield": "usr",
+  "parenttype": "TestUsers",
+  "usr": "ahmed@mail.com"
+ },
+ {
+  "docstatus": 1,
+  "doctype": "Users Child",
+  "modified": "2022-09-01 15:23:30.484295",
+  "name": "c9ce89bb54",
+  "parent": "USR-004",
+  "parentfield": "usr",
+  "parenttype": "TestUsers",
+  "usr": "majdi@mail.com"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Users Child",
+  "modified": "2022-09-01 15:26:44.688882",
+  "name": "f739ddce6c",
+  "parent": "USR-005",
+  "parentfield": "usrs",
+  "parenttype": "TestUsers",
+  "usr": "majdi@mail.com"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Users Child",
+  "modified": "2022-09-03 09:49:42.090171",
+  "name": "03da4b9a45",
+  "parent": "USR-009",
+  "parentfield": "usr",
+  "parenttype": "TestUsers",
+  "usr": "ent@example.com"
+ }
+]
