@@ -1,0 +1,93 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-09-26 14:57:36.580493",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "pass",
+  "modules",
+  "btn",
+  "c_btn",
+  "chk",
+  "tbl",
+  "amended_from",
+  "m_tbl"
+ ],
+ "fields": [
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Database Ereaser",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "pass",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "What is the secretphrase?",
+   "reqd": 1
+  },
+  {
+   "fieldname": "btn",
+   "fieldtype": "Button",
+   "label": "Get All DocTypes"
+  },
+  {
+   "fieldname": "tbl",
+   "fieldtype": "Table",
+   "label": "DocTypes To Be Cleared",
+   "options": "DocTypes To B Cleared Child"
+  },
+  {
+   "fieldname": "modules",
+   "fieldtype": "Link",
+   "label": "Modules",
+   "options": "Module Def"
+  },
+  {
+   "fieldname": "c_btn",
+   "fieldtype": "Button",
+   "label": "Clear Table"
+  },
+  {
+   "fieldname": "m_tbl",
+   "fieldtype": "Table MultiSelect",
+   "label": "Multi Modules",
+   "options": "Modules Child"
+  },
+  {
+   "fieldname": "chk",
+   "fieldtype": "Button",
+   "label": "CHK"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2022-10-03 11:06:20.260637",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Database Ereaser",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

@@ -1,0 +1,63 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-07-23 11:47:13.374944",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "name_form",
+  "column_break_2",
+  "age_form",
+  "column_break_4",
+  "major_form"
+ ],
+ "fields": [
+  {
+   "fieldname": "name_form",
+   "fieldtype": "Data",
+   "label": "Name"
+  },
+  {
+   "fieldname": "age_form",
+   "fieldtype": "Data",
+   "label": "Age"
+  },
+  {
+   "fieldname": "major_form",
+   "fieldtype": "Data",
+   "label": "Major"
+  },
+  {
+   "fieldname": "column_break_2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-23 11:48:08.632351",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "ToFormOmar",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

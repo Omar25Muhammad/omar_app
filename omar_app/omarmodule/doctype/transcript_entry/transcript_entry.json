@@ -1,0 +1,90 @@
+{
+ "actions": [],
+ "autoname": "format:{prof_name}-{course_title}",
+ "creation": "2022-07-30 11:44:12.733505",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "prof_name",
+  "column_break_2",
+  "course_title",
+  "column_break_4",
+  "entry_date",
+  "section_break_6",
+  "student_grades",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "prof_name",
+   "fieldtype": "Data",
+   "label": "Prof. Name"
+  },
+  {
+   "fieldname": "column_break_2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "course_title",
+   "fieldtype": "Data",
+   "label": "Course Title "
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "Now",
+   "fieldname": "entry_date",
+   "fieldtype": "Datetime",
+   "label": "Entry Date",
+   "read_only": 1
+  },
+  {
+   "fieldname": "section_break_6",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "student_grades",
+   "fieldtype": "Table",
+   "label": "Student Grades",
+   "options": "Student Child"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Transcript Entry",
+   "print_hide": 1,
+   "read_only": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2022-07-31 10:54:08.870317",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Transcript Entry",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

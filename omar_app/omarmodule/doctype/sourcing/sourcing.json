@@ -1,0 +1,191 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "SRC-.####",
+ "creation": "2022-12-10 15:49:44.880114",
+ "doctype": "DocType",
+ "document_type": "Setup",
+ "engine": "InnoDB",
+ "field_order": [
+  "status",
+  "purchasing_type",
+  "action",
+  "column_break_5",
+  "expected_start_date",
+  "expected_end_date",
+  "priority",
+  "department",
+  "approver",
+  "section_break_13",
+  "project_details",
+  "estimated_costing",
+  "column_break_28",
+  "cost_center",
+  "section_break0",
+  "notes"
+ ],
+ "fields": [
+  {
+   "allow_on_submit": 1,
+   "default": "Open",
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_standard_filter": 1,
+   "label": "Status",
+   "no_copy": 1,
+   "oldfieldname": "status",
+   "oldfieldtype": "Select",
+   "options": "Open\nCompleted\nCancelled",
+   "search_index": 1
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "expected_start_date",
+   "fieldtype": "Date",
+   "label": "Expected Start Date",
+   "oldfieldname": "project_start_date",
+   "oldfieldtype": "Date"
+  },
+  {
+   "bold": 1,
+   "fieldname": "expected_end_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Expected End Date",
+   "oldfieldname": "completion_date",
+   "oldfieldtype": "Date"
+  },
+  {
+   "fieldname": "priority",
+   "fieldtype": "Select",
+   "in_standard_filter": 1,
+   "label": "Priority",
+   "oldfieldname": "priority",
+   "oldfieldtype": "Select",
+   "options": "Medium\nLow\nHigh"
+  },
+  {
+   "fieldname": "department",
+   "fieldtype": "Link",
+   "label": "Department",
+   "options": "Department"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "section_break0",
+   "fieldtype": "Section Break",
+   "label": "Notes",
+   "oldfieldtype": "Section Break",
+   "options": "fa fa-list"
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Text Editor",
+   "label": "Notes",
+   "oldfieldname": "notes",
+   "oldfieldtype": "Text Editor"
+  },
+  {
+   "collapsible": 1,
+   "fieldname": "project_details",
+   "fieldtype": "Section Break",
+   "label": "Costing and Billing",
+   "oldfieldtype": "Section Break",
+   "options": "fa fa-money"
+  },
+  {
+   "fieldname": "estimated_costing",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Estimated Cost",
+   "oldfieldname": "project_value",
+   "oldfieldtype": "Currency",
+   "options": "Company:company:default_currency",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_28",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "cost_center",
+   "fieldtype": "Link",
+   "label": "Default Cost Center",
+   "options": "Cost Center"
+  },
+  {
+   "fieldname": "purchasing_type",
+   "fieldtype": "Link",
+   "label": "Purchasing Type",
+   "options": "Purchasing Types",
+   "reqd": 1
+  },
+  {
+   "fieldname": "approver",
+   "fieldtype": "Link",
+   "hidden": 1,
+   "label": "Approver",
+   "options": "Role",
+   "read_only": 1
+  },
+  {
+   "fieldname": "action",
+   "fieldtype": "Link",
+   "label": "Action",
+   "options": "Actions Based on POs",
+   "reqd": 1
+  },
+  {
+   "fieldname": "section_break_13",
+   "fieldtype": "Section Break"
+  }
+ ],
+ "icon": "fa fa-puzzle-piece",
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "max_attachments": 4,
+ "modified": "2022-12-11 14:57:48.773445",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Sourcing",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Projects User",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "permlevel": 1,
+   "read": 1,
+   "report": 1,
+   "role": "All"
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Projects Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_name_in_global_search": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_seen": 1
+}

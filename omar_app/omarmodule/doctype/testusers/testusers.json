@@ -1,0 +1,81 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "USR-.###",
+ "creation": "2022-09-01 09:55:42.928554",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "usr",
+  "btn",
+  "amended_from",
+  "usrs",
+  "phone",
+  "date"
+ ],
+ "fields": [
+  {
+   "fieldname": "usr",
+   "fieldtype": "Link",
+   "label": "User",
+   "options": "User"
+  },
+  {
+   "fieldname": "btn",
+   "fieldtype": "Button",
+   "label": "Assign"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "TestUsers",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "usrs",
+   "fieldtype": "Table",
+   "label": "Users",
+   "options": "Users Child"
+  },
+  {
+   "fieldname": "phone",
+   "fieldtype": "Table MultiSelect",
+   "label": "Mobile Number/s",
+   "options": "Phone Child",
+   "reqd": 1
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "label": "Date"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2022-10-17 20:24:58.620644",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "TestUsers",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

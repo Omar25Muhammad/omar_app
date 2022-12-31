@@ -1,0 +1,37 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-07-23 09:29:22.161445",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "flavor",
+  "type"
+ ],
+ "fields": [
+  {
+   "fieldname": "flavor",
+   "fieldtype": "Link",
+   "label": "Flavor",
+   "options": "Soap Flavor"
+  },
+  {
+   "fieldname": "type",
+   "fieldtype": "Link",
+   "label": "Type",
+   "options": "Soap Kind"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-07-23 10:07:12.916189",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Soap Child",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

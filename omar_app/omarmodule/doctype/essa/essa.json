@@ -1,0 +1,86 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{action}-{number}-{year}",
+ "creation": "2022-12-17 00:40:50.932656",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "action",
+  "number",
+  "year",
+  "naming",
+  "basedonnumber",
+  "status"
+ ],
+ "fields": [
+  {
+   "fieldname": "action",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Action",
+   "options": "\u0634\u0643\u0648\u0649\n\u0628\u0644\u0627\u063a\n\u0637\u0644\u0628\n\u062a\u0638\u0644\u0645"
+  },
+  {
+   "fieldname": "number",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Number"
+  },
+  {
+   "fieldname": "year",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Year"
+  },
+  {
+   "fieldname": "naming",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Naming"
+  },
+  {
+   "fieldname": "basedonnumber",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "basedonnumber",
+   "unique": 1
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Status",
+   "options": "\nHigh\nLow"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-12-19 13:08:58.622036",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Essa",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "title_field": "action"
+}

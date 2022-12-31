@@ -1,0 +1,77 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-08-09 14:59:05.973404",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "on",
+  "con1",
+  "amended_from",
+  "img",
+  "column_break_5",
+  "opn"
+ ],
+ "fields": [
+  {
+   "fieldname": "con1",
+   "fieldtype": "Data",
+   "label": "con1"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "con1",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "on",
+   "fieldtype": "Check",
+   "label": "On?"
+  },
+  {
+   "fieldname": "img",
+   "fieldtype": "Attach",
+   "label": "Add Image"
+  },
+  {
+   "allow_on_submit": 1,
+   "fieldname": "opn",
+   "fieldtype": "Button",
+   "label": "View Attachment"
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2022-08-12 19:20:40.578240",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "con1",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

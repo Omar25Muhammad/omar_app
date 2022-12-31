@@ -1,0 +1,49 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:FRM.{###}",
+ "creation": "2022-07-23 11:44:36.460674",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "tries",
+  "data"
+ ],
+ "fields": [
+  {
+   "fieldname": "tries",
+   "fieldtype": "Int",
+   "label": "Enter Number of Tries:"
+  },
+  {
+   "fieldname": "data",
+   "fieldtype": "Table",
+   "label": "Data",
+   "options": "FromOmarChild"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-23 12:08:35.318572",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "FormOmar",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

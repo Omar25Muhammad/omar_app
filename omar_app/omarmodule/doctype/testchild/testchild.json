@@ -1,0 +1,49 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-10-11 11:39:54.288702",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "chk",
+  "aaa"
+ ],
+ "fields": [
+  {
+   "fieldname": "aaa",
+   "fieldtype": "Table",
+   "label": "aaa",
+   "options": "Scanned Maps Child"
+  },
+  {
+   "default": "0",
+   "fieldname": "chk",
+   "fieldtype": "Check",
+   "label": "chk"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-10-11 11:40:18.981139",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "TestChild",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

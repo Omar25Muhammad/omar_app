@@ -1,0 +1,63 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-11-08 12:24:17.390855",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "police",
+  "prosecution",
+  "openion",
+  "status"
+ ],
+ "fields": [
+  {
+   "default": "0",
+   "fieldname": "police",
+   "fieldtype": "Check",
+   "label": "Police"
+  },
+  {
+   "default": "0",
+   "fieldname": "prosecution",
+   "fieldtype": "Check",
+   "label": "Prosecution"
+  },
+  {
+   "default": "0",
+   "fieldname": "openion",
+   "fieldtype": "Check",
+   "label": "Openion"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "\nPoliced\nProsecutioned\nPoliced & Prosecutioned\nOpenioned"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-11-08 12:47:11.868357",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "teststates",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

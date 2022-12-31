@@ -1,0 +1,66 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "M-.#####",
+ "creation": "2022-10-10 12:12:53.174722",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "employee",
+  "grade",
+  "year_of_earning",
+  "month_of_earning",
+  "number_of_days_left"
+ ],
+ "fields": [
+  {
+   "fieldname": "employee",
+   "fieldtype": "Data",
+   "label": "Employee"
+  },
+  {
+   "fieldname": "grade",
+   "fieldtype": "Data",
+   "label": "Grade"
+  },
+  {
+   "fieldname": "year_of_earning",
+   "fieldtype": "Data",
+   "label": "Year of Earning"
+  },
+  {
+   "fieldname": "month_of_earning",
+   "fieldtype": "Data",
+   "label": "Month of Earning"
+  },
+  {
+   "fieldname": "number_of_days_left",
+   "fieldtype": "Data",
+   "label": "Number of Days Left"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-11-05 13:33:38.410207",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "TestEmpReport",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

@@ -1,0 +1,152 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-07-03 10:43:19.122660",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "first_name",
+  "attach",
+  "data_4",
+  "attach_image",
+  "add_your_barcode",
+  "break_section",
+  "see_my_awards",
+  "money",
+  "you_sign",
+  "enter_the_password",
+  "loc",
+  "column_break_2",
+  "color",
+  "omarra",
+  "image",
+  "date_14",
+  "datetime_15",
+  "duration_16",
+  "select_one",
+  "hello_world"
+ ],
+ "fields": [
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "label": "First Name"
+  },
+  {
+   "fieldname": "attach",
+   "fieldtype": "Attach",
+   "label": "Attach"
+  },
+  {
+   "fieldname": "attach_image",
+   "fieldtype": "Attach Image",
+   "label": "Attach Image"
+  },
+  {
+   "fieldname": "add_your_barcode",
+   "fieldtype": "Barcode",
+   "label": "Add Your Barcode"
+  },
+  {
+   "fieldname": "break_section",
+   "fieldtype": "Section Break",
+   "label": "Resume"
+  },
+  {
+   "fieldname": "see_my_awards",
+   "fieldtype": "Button",
+   "label": "See My Awards"
+  },
+  {
+   "fieldname": "money",
+   "fieldtype": "Currency",
+   "label": "money"
+  },
+  {
+   "fieldname": "you_sign",
+   "fieldtype": "Signature",
+   "label": "you sign"
+  },
+  {
+   "fieldname": "enter_the_password",
+   "fieldtype": "Password",
+   "label": "Enter The Password"
+  },
+  {
+   "fieldname": "loc",
+   "fieldtype": "Geolocation",
+   "label": "loc"
+  },
+  {
+   "fieldname": "color",
+   "fieldtype": "Color",
+   "label": "color"
+  },
+  {
+   "default": "0",
+   "fieldname": "omarra",
+   "fieldtype": "Check",
+   "label": "omarra"
+  },
+  {
+   "fieldname": "image",
+   "fieldtype": "Image",
+   "label": "image"
+  },
+  {
+   "fieldname": "date_14",
+   "fieldtype": "Date"
+  },
+  {
+   "fieldname": "datetime_15",
+   "fieldtype": "Datetime"
+  },
+  {
+   "fieldname": "duration_16",
+   "fieldtype": "Duration"
+  },
+  {
+   "fieldname": "select_one",
+   "fieldtype": "Select",
+   "label": "Select One",
+   "options": "A\nB\nC\nD"
+  },
+  {
+   "fieldname": "column_break_2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "data_4",
+   "fieldtype": "Data"
+  },
+  {
+   "fieldname": "hello_world",
+   "fieldtype": "Heading",
+   "label": "Hello, World"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-03 11:27:47.201479",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "OmarDocType",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

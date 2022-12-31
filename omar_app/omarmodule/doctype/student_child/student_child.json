@@ -1,0 +1,70 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{student_name}-{course}",
+ "creation": "2022-07-30 11:41:54.099114",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "student_name",
+  "id",
+  "course",
+  "midterm",
+  "final",
+  "total"
+ ],
+ "fields": [
+  {
+   "fieldname": "student_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Student Name"
+  },
+  {
+   "fieldname": "id",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "ID",
+   "non_negative": 1
+  },
+  {
+   "fieldname": "course",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Course"
+  },
+  {
+   "fieldname": "midterm",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Midterm",
+   "non_negative": 1
+  },
+  {
+   "fieldname": "final",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Final",
+   "non_negative": 1
+  },
+  {
+   "fieldname": "total",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Total",
+   "non_negative": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-07-30 13:11:31.791958",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Student Child",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

@@ -1,0 +1,68 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "TR.#####",
+ "creation": "2022-07-21 14:18:48.168228",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "text",
+  "btn",
+  "translated_text",
+  "column_break_4",
+  "pick_a_lang"
+ ],
+ "fields": [
+  {
+   "fieldname": "btn",
+   "fieldtype": "Button",
+   "label": "Do Translate!"
+  },
+  {
+   "fieldname": "text",
+   "fieldtype": "Data",
+   "label": "Text"
+  },
+  {
+   "fieldname": "translated_text",
+   "fieldtype": "Data",
+   "label": "Translated Text",
+   "read_only": 1
+  },
+  {
+   "fieldname": "pick_a_lang",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Pick a Lang",
+   "options": "Language"
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-08-20 13:39:23.768273",
+ "modified_by": "Administrator",
+ "module": "OmarModule",
+ "name": "Google Translator",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
