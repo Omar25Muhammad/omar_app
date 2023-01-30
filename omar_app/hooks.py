@@ -35,7 +35,7 @@ fixtures = frappe.get_list('DocType', filters=[['module', 'in',  'OmarModule'], 
 # include js in doctype views
 doctype_js = {
     # "doctype" : "public/js/doctype.js",
-    "Student": "cus_student.js",
+    "Student": "public/js/student.js",
 }
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
@@ -49,7 +49,7 @@ doctype_js = {
 
 # website user home page (by Role)
 # role_home_page = {"Student": "public/js/cus_student.js",
-#	"Role": "home_page"
+# "Role": "home_page"
 # }
 
 # Generators
@@ -105,7 +105,7 @@ doctype_js = {
 # 		"on_update": "method",
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
-#	}
+# }
 # }
 
 # Scheduled Tasks
