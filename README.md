@@ -1,7 +1,7 @@
 ## Omar App
 
-An app to practise ERPNexp & Frappe framework
+An app to practise Frappe framework
 
 #### License
 
-NYUSIM
+MIT
